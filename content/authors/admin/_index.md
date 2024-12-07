@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Academic profile
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Galo
+last_name: Romero García
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑‍💻️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +17,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Geographer | Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Ministerio de Ciencia, Innovación y Universidades
+    url: https://www.ciencia.gob.es/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:galoromerogarcia@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/GaloRomero
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/galoromerogarcia/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.es/citations?user=3bs9N7IAAAAJ&hl=es
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Geographic Information Systems
+  - Relational Databases
+  - Semantic Web 
 
 education:
   - area: PhD Artificial Intelligence
