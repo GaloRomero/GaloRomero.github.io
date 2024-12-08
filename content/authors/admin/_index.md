@@ -7,7 +7,7 @@ first_name: Galo
 last_name: Romero García
 
 # Status emoji
-status:
+status:  https://pepadb.us.es/imagenes_app/galo1.jpeg
   icon: 🧑‍💻️
 
 # Is this the primary user of the site?
