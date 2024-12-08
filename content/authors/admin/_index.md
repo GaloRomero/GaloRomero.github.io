@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Academic profile
+title: Galo Romero-García
 
 # Full name (for SEO)
 first_name: Galo
