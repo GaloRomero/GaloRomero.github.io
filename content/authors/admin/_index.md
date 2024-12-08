@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Galo Romero-García
+title: Galo Romero García
 
 # Full name (for SEO)
 first_name: Galo
-last_name: Romero-García
+last_name: Romero García
 
 # Status emoji
 status:
