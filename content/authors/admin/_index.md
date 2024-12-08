@@ -44,32 +44,34 @@ interests:
   - Semantic Web 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Geographic Information Technology
+    institution: Universidad de Sevilla
+    date_start: 01-12-2021
+    date_end: 30-11-2025
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Management of archaeological data on European prehistory with the aim of creating a Spatial Data Infrastructure that makes data from different research projects available to the user community.
+
+      - https://pepadb.us.es
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.A in Geography
+    institution: Universidad de Sevilla
+    date_start: 15-10-2019
+    date_end: 31-07-2020
     summary: |
-      GPA: 3.8/4.0
+      Relational database management and GIS technology applications.
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc in Geography
+    institution: Universidad de Sevilla
+    date_start: 15-09-2015
+    date_end: 30-07-2019
     summary: |
-      GPA: 3.4/4.0
+      Undergraduate studies necessary to acquire the fundamentals of geography and GIS.
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
