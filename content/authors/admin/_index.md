@@ -44,7 +44,7 @@ interests:
   - Semantic Web 
 
 education:
-  - area: PhD in Geographic Information Technology
+  - area: PhD in Geographic Information Technology 
     institution: Universidad de Sevilla
     date_start: 01-12-2021
     date_end: 30-11-2025
