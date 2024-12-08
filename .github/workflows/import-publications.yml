@@ -1,10 +1,10 @@
 # Hugo Blox GitHub Action to convert Bibtex publications to Markdown-based webpages
 name: Import Publications From Bibtex
 
-# Require permission to create a PR
+# Require permission to create a PR 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: write 
+  pull-requests: write 
 
 # Run workflow when a `.bib` file is added or updated in the `data/` folder
 on:
